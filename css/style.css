@@ -1,0 +1,30 @@
+/**
+ * Fixed Table Header v1.0 
+ * http://infopitcher.com
+ *
+ * Copyright 2013, Sakthi - http://infopitcher.com
+ */
+
+body{
+	font-family:arial;
+}
+.table-wrap{
+	border: 1px solid #AAD8A2;
+	margin-bottom:30px;
+}
+table{
+	width:100%;
+}
+th {
+	background-color: #AAD86D;
+	border: 1px solid #AAD8A2;
+	text-align:left;
+	padding:10px;
+}
+td {
+	border: 1px solid #AAD8A2;
+	padding:10px;
+}
+.table-content{
+	overflow-y:auto;
+}
